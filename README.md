@@ -1,6 +1,6 @@
-# Script PHP CRUD Application
+# PHP CRUD Application
 
-Script PHP CRUD Application merupakan script PHP yang saya buat sebagai portfolio dan acuan dalam membangun sebuah aplikasi. Saya berharap bisa mendapatkan masukan dari Developer lain untuk membangun aplikasi yang baik dan benar.
+PHP CRUD Application merupakan script PHP yang saya buat sebagai portfolio dan acuan dalam membangun sebuah aplikasi. Saya berharap bisa mendapatkan masukan dari Developer lain untuk membangun aplikasi yang baik dan benar.
 
 ### Instalasi & Konfigurasi
 
